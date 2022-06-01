@@ -1,0 +1,11 @@
+.cardGroup {
+    padding: 30px;
+  }
+
+  .like {
+    color: red;
+  }
+
+  .author {
+    font-weight: 100;
+  }
